@@ -1,0 +1,1 @@
+electron.js app modified with some options to run standalone apps based on index.html files
